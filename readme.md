@@ -1,0 +1,1 @@
+This project want to collect all stocks data in a big database.

@@ -1,0 +1,5 @@
+[stock]
+path = "d:\\code.csv"
+[database]
+server = "192.168.17.133"
+port = 8086

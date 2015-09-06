@@ -1,2 +1,2 @@
-This project want to collect all stocks data from China Shanghai and Shenzhen into a big database.
-The programm is write by go,and the database is influexdb.
+This project is used to collect all stocks data from Shanghai and Shenzhen into a big database.
+The programm is writen in go,and the database is influexdb.
